@@ -5,7 +5,7 @@ helm create webapp1
 ```
 
 
-# Follow this steps
+# Follow this steps to create a dynamic template engine for different environments 
 - copying and pasting from templates-original
 - you can also use the files in the solution folder
 
