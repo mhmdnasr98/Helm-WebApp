@@ -1,0 +1,5 @@
+namespace: dev
+configmap:
+  name: helmappconfigmapv1.1
+  data:
+    CUSTOM_HEADER: "Welcome to Prod!" 
